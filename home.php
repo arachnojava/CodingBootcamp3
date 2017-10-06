@@ -4,6 +4,7 @@
 ?>
 <!DOCTYPE html>
 <!-- 
+	This is so I remember the database logins.
 	mhensonf_wrt  password410
 	mhensonf_rdo  password410
 -->
